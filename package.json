@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://hazza203.github.io/MACD-Trading-Signals-WebApp/",
   "dependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^3.2.1",
     "numeral": "^2.0.6",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
