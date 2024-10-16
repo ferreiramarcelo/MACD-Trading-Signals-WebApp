@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://hazza203.github.io/MACD-Trading-Signals-WebApp/",
   "dependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^6.2.0",
     "numeral": "^2.0.6",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "2.1.8"
+    "react-scripts": "5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
